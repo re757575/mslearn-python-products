@@ -3,6 +3,8 @@
 
 A Python/Flask dashboard for a Products database.
 
+https://docs.microsoft.com/en-us/learn/modules/use-docker-container-dev-env-vs-code/
+
 ## Prequisites
 
 * Visual Studio Code
@@ -12,8 +14,8 @@ A Python/Flask dashboard for a Products database.
 ## Running
 
 1. Clone the repo
-2. Open the app 
-3. Select "Reopen in container" when prompted 
+2. Open the app
+3. Select "Reopen in container" when prompted
 2. Open a terminal and run...
 
     ```
